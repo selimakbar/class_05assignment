@@ -1,0 +1,31 @@
+H1{
+	font-size: 30px;
+	border: 5px solid black;
+	width: 300px;
+	padding: 20px;
+	text-align: center;
+}
+
+h2{
+	border: 5px solid black;
+	width: 800px;
+	padding: 30px;
+	text-align: justify;
+}
+
+.video{
+	width: 30%;
+	height: 350px;
+}
+.map{
+	width: 700px;
+	height: 600px;
+	border: 0;
+}
+
+div{
+	border: 5px solid black;
+	width: 800px;
+	padding: 30px;
+	text-align: justify;
+}
